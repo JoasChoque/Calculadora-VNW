@@ -7,7 +7,7 @@ export const Button = styled.button`
     border: none;
     color: #ffffff;
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 30px;
+    font-size: 1.8rem;
     font-weight: 700;
     margin: 10px;
 `
@@ -26,15 +26,15 @@ export const Main = styled.button`
 export const Background = styled.div`
     background-color: #160009;
     border-radius: 10px;
-    padding-top: 20px;
+    padding: 10px;
 `
 
 export const Result = styled.input`
-    width: 85%;
+    width: 92%;
     border: none;
     outline: auto;
     height: 5vh;
-    font-size: 30px;
+    font-size: 1.8rem;
     font-family: 'Nunito Sans', sans-serif;
     margin: 10px 0;
 `
@@ -42,6 +42,6 @@ export const Result = styled.input`
 export const Title = styled.h1`
     color: #ffffff;
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 50px;
+    font-size: 3.125rem;
     margin-bottom: 30px;
 `
